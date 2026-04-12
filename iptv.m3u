@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="安徽" http-referrer="https://www.ahtv.cn/",安徽卫视
-https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=efdc575c1776035414
+https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=386e1b101776036013
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
 {BEIJINGTV}
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="福建",东南卫视
@@ -12,19 +12,19 @@ https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=efdc575c1776035414
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="广西",广西卫视
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="贵州",贵州卫视
-https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=bc4f4b8a16abab30fed158825a4db3c5&txTime=69DC0588
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=6d6a714a92735981398341d4d78c64c7&txTime=69DC0C90
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="海南",海南卫视
 https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="河北",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776035418&k=ea5db1234eca77412d681151ff5ea978
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1776036017&k=3454eef7ca55f7510a166fef478f2b82
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 {HEILONGJIANGTV}
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="河南",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fd6c3ce67ee6f5fd7f4c6f302f666e94&wsTime=1776042605&wsSession=9db3ca43c2746cf43f910d50-177602820619628&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168058346316481330
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=edbc8d69f9cb8257950d1ab9109e6f6a&wsTime=1776043205&wsSession=9db3ca43c2746cf43f910d50-177602880608082&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168058346316481330
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="吉林",吉林卫视
-https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=0aa79e1bd9a6903c6a994d63f4a5b7df&txTime=69DC4302
+https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=abb1a1c8488aaa271496ad9ccf9bdf61&txTime=69DC4559
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="内蒙古",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=aade4435da73468fa780fa001e23c6f6
+https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=c48b93133c82456886cbe011224373e7
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="青海",青海卫视
 {QINGHAITV}
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="山东" http-referrer="https://v.iqilu.com/",山东卫视
@@ -34,10 +34,10 @@ https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/u3sh8sV.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="陕西",陕西卫视
 http://stream.snrtv.com/sxbc-star-mEJKZ7.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="西藏",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=3ce00fb52e090cbc7136742622cf76d5&time=69dc0a2b
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=1ad467a816709a3a84b9a232e0921e54&time=69dc0c82
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视",新疆卫视
 {XINJIANGTV}
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="云南",云南卫视
 https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="浙江",浙江卫视
-https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1776028353-vgi6zgobu3ioq833nlzb49o9jdxdvp9e-0-5bc63aac0ce8cf3f79de7953ec465cc5
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1776028952-swzkjmz6j0ykcr8k5i0uh184l1kp9xz2-0-5eb400df6f14d197c00237ae86bfc0e8
